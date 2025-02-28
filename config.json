@@ -1,8 +1,8 @@
 {
-    "token": "NzY1MDc2NjcxMDUyNTEzMzMx.Gi14BG.lykJ4DLTOHfXkCzPy3v123dr9vme_Oyjn6f2lE",
+    "token": "",
     "language": "en",
     "prefix": "c!",
-    "mongodbUri": "mongodb+srv://cyolust:jalu4321@cyolust.idw8cek.mongodb.net/?retryWrites=true&w=majority&appName=Cyolust",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
